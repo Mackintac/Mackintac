@@ -39,4 +39,4 @@ in-game optimization now drives how I build software. I don't stop until it's ri
 
 ### Get in touch
 
-[mackgr.dev](https://mackgr.dev) · [LinkedIn](https://www.linkedin.com/in/mackenzie-graungaard-robinson/) · mackgr.dev@gmail.com
+[mackgr.dev](https://mackgr.dev) · [LinkedIn](https://www.linkedin.com/in/mackenzie-graungaard-robinson/) · mackgr.dev@gmail.com · [LeetCode](https://leetcode.com/u/mackintac/)
