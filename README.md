@@ -1,6 +1,6 @@
 # Hey, I'm Mack 
 
-Full-stack software developer focused on React, Next.js, and TypeScript.
+Full-stack software developer focused on React, Next.js, and TypeScript — lately shipping AI-integrated products with Claude.
 Before writing production code I spent years competing as a professional StarCraft 2 player
 (Zerg, ranked — you can look it up). The same obsession that drove thousands of hours of
 in-game optimization now drives how I build software. I don't stop until it's right.
@@ -23,6 +23,7 @@ in-game optimization now drives how I build software. I don't stop until it's ri
 
 | Project | Description |
 |---|---|
+| [DidactArc](https://didactarc.dev) | AI-guided self-study tracker — proficiency decay, Claude tutor, study paths, PWA |
 | [Dice Roll Duel](https://dicerollduel.com) | Real-time 1v1 ranked dice game — Socket.io, ELO ranking, matchmaking |
 | [Barrie Slippi Leaderboard](https://mackintac.github.io/BarrieSlippiLeaderboard/#/) | Regional SC Melee leaderboard for Barrie, Ontario |
 | [Portfolio](https://mackgr.dev) | This portfolio — Next.js, React Three Fiber, Framer Motion |
